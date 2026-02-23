@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,50:7c3aed,100:00ff88&height=200&section=header&text=CV%20Gesture%20System%20Ultra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-Time%20Hand%20Gesture%20Canvas%20%E2%80%94%20Air%20Writing%20%C2%B7%2013%20Shapes%20%C2%B7%20Zero-Lag&descAlignY=60&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,50:7c3aed,100:00ff88&height=200&section=header&text=CV%20Gesture%20System%20&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Real-Time%20Hand%20Gesture%20Canvas%20%E2%80%94%20Air%20Writing%20%C2%B7%2013%20Shapes%20%C2%B7%20Zero-Lag&descAlignY=60&descSize=16"/>
 
 <br/>
 
